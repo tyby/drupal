@@ -1,3 +1,9 @@
-web/sites/default/files/
+web/sites/default/files/css
+web/sites/default/files/styles
+web/sites/default/files/php
+web/sites/default/files/js
 db_backups/*.*
 /web/sites/default/settings.local.php
+
+
+
