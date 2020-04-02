@@ -1,1 +1,3 @@
 web/sites/default/files/
+db_backups/*.*
+/web/sites/default/settings.local.php
