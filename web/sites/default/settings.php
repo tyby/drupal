@@ -266,7 +266,7 @@ $databases = [];
  *   $settings['hash_salt'] = file_get_contents('/home/example/salt.txt');
  * @endcode
  */
-$settings['hash_salt'] = 'sOa5ftPDF_mIvcsy648PVchrpaQH-gq3zsvzAmR2dWOT59J95eDVbLdOVwp3N3C1Cv0OZ_c6og';
+$settings['hash_salt'] = '-YY2cLN12Shp_sizMdy_1vi8b19_H95kb5iMQjUUe2paxCEqioCzkwkwPpwg0B0pBpiZALme9A';
 
 /**
  * Deployment identifier.
@@ -761,3 +761,4 @@ $settings['entity_update_backup'] = TRUE;
  }
 
 $settings['config_sync_directory'] = 'sites/default/files/config_cqoy9blV3SUmvX0o2eQ9g8H51rZKT2G-fYuUYw_jNvRU30s7ejR9lrrlemgplbM2Hev-PI9c3A/sync';
+
